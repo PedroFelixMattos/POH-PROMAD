@@ -15,6 +15,10 @@ public class Reu {
     @JoinColumn(name= "processo_id",nullable = false)
     private Processo processo;
 
+    public Reu() {
+
+    }
+
     public Long getId() {
         return id;
     }

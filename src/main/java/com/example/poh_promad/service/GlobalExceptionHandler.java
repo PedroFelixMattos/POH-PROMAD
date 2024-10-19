@@ -1,3 +1,5 @@
+package com.example.poh_promad.service;
+
 import com.example.poh_promad.service.ReuJaAssociadoException;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
